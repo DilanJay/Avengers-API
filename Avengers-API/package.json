@@ -1,0 +1,16 @@
+{
+  "name": "avengers-api",
+  "version": "1.0.0",
+  "description": "Server side API managing Avengers data",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "MERN_Stack",
+    "Express_API",
+    "Node_Express"
+  ],
+  "author": "Dilan_Jayasinghe",
+  "license": "ISC"
+}
